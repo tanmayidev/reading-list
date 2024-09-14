@@ -2,30 +2,31 @@
 
 ### Index
 
-- [Reading Resources]()
-  - [Blogs]()
-  - [Videos]()
-  - [Articles]()
-  - [Engg Blogs from Companies and startups]()
-- [Learn By Practice]()
-  - [General]()
-  - [Problem Solving]()
-  - [Frontend]()
-    - [Coding Challenges / Blog]()
-    - [HTTP]()
-    - [HTML]()
-    - [CSS]()
-    - [JavaScript]()
-    - [TypeScript]()
-    - [Web Performance]()
-    - [React]()
-    - [Machine Coding]()
-  - [Free Courses]() 
+- [Reading Resources](#reading)
+  - [Blogs](#blogs)
+  - [Videos](#videos)
+  - [Articles](#articles)
+  - [Engg Blogs from Companies and startups](#engg-blogs)
+- [Learn By Practice](#learn)
+  - [General](#general)
+  - [Problem Solving](#problem-solving)
+  - [Free Courses](#free-courses) 
+  - [Frontend](#fe)
+    - [Coding Challenges / Blog](#fe-blogs)
+    - [HTTP](#http)
+    - [HTML](#html)
+    - [CSS](#css)
+    - [JavaScript](#js)
+    - [TypeScript](#ts)
+    - [Web Performance](#web)
+    - [React](#react)
+    - [Machine Coding](#machine-coding)
 
 
-# Reading Resources
 
-## Blogs
+# Reading Resources <a id="reading"></a>
+
+## Blogs <a id="blogs"></a>
 
 - [Dan Abramov (redux) - overreacted.io](https://overreacted.io/)
 - [ByteByteGo - System Design Newsletter](https://substack.com/@bytebytego399569/posts)
@@ -33,13 +34,13 @@
 - [Learn C++ and Security - Web API Hooking](https://www.ired.team/offensive-security/code-injection-process-injection/how-to-hook-windows-api-using-c++)
 - [LogRocket Blog](https://blog.logrocket.com/dev)
 
-## Videos
+## Videos <a id="videos"></a>
 
 - [Recoil State Management - explained by creators](https://www.youtube.com/watch?v=_ISAA_Jt9kI)
 
 
 
-## Articles
+## Articles <a id="articles"></a>
 
 - [JavaScript Visualized - 7 parts - Lydia Hallie](https://dev.to/lydiahallie/series/3341)
 - [Discriminated Union](https://dev.to/darkmavis1980/what-are-typescript-discriminated-unions-5hbb)
@@ -49,7 +50,7 @@
 - [Story about Tampering EDRs- Redops](https://redops.at/en/blog/a-story-about-tampering-edrs)
 
 
-## Engineering Blogs from Well-known large companies and startups
+## Engineering Blogs from Well-known large companies and startups <a id="engg-blogs"></a>
 
 - [Netflix TechBlog](https://medium.com/netflix-techblog)
 - [Uber Blog](http://eng.uber.com/)
@@ -132,13 +133,13 @@
 - [Zoom Developer Blog](https://developers.zoom.us/blog/)
 - [Zynga Engineering Blog](https://www.zynga.com/blogs/engineering)
 
-# Learn by Practice Resources
+# Learn by Practice Resources  <a id="learn"></a>
 
-## General
+## General  <a id="general"></a>
 
 - [Enjoy Algorithms](https://www.enjoyalgorithms.com/)
 
-## Problem Solving 
+## Problem Solving   <a id="problem-solving"></a>
 
 - [Leetcode](https://leetcode.com/explore)
 - [InterviewBit](https://interviewbit.com/)
@@ -150,9 +151,20 @@
 
 --- 
 
-## Frontend 
+## Free Courses / Tutorials  <a id="free-courses"></a>
 
-### Coding Challenges /  Blog
+- [Freecodecamp](https://www.freecodecamp.org/learn/)
+- [Redis University](https://redis.io/university/)
+- [GraphQL Apollo](https://www.apollographql.com/tutorials/)
+- [MongoDb](https://learn.mongodb.com/)
+- [Hackerrank Skill Verifications](https://www.hackerrank.com/skills-verification)
+- [Grafana Tutorials](https://grafana.com/tutorials/)
+
+---
+
+## Frontend   <a id="fe"></a>
+
+### Coding Challenges /  Blog  <a id="fe-blogs"></a>
 
 - [Great Frontend - lifetime member](https://www.greatfrontend.com/)
 - [Big Frontend Dev](https://bigfrontend.dev/)
@@ -164,17 +176,17 @@
 - [Learners Bucket](https://practice.learnersbucket.com/)
 - [First Timers Only - Open Source](https://www.firsttimersonly.com/)
 
-### HTTP 
+### HTTP  <a id="http"></a>
 
 - [MDN HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP)
 - [HTTP2 in Action](https://livebook.manning.com/book/http2-in-action/about-this-book/)
 
-### HTML
+### HTML  <a id="html"></a>
 
 - [MDN HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
 - [W3 Schools](https://www.w3schools.com/html/)
 
-### CSS 
+### CSS  <a id="css"></a>
 
 - [CSS Battle](https://cssbattle.dev/)
 - [100 days of CSS](https://100dayscss.com/)
@@ -183,7 +195,7 @@
 - [MDN CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
 - [Web Dev](https://web.dev/learn/css/)
 
-### JavaScript
+### JavaScript  <a id="js"></a>
 
 - [Web App Design Patterns](https://www.patterns.dev/)
 - [JS Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
@@ -206,7 +218,7 @@
 - [JavaScript 30](https://javascript30.com/)
 
   
-### TypeScript
+### TypeScript  <a id="ts"></a>
 
 - [TypeScript Deepdive](https://basarat.gitbook.io/typescript/)
 - [Tackling TypeScript](https://exploringjs.com/tackling-ts/index.html)
@@ -215,14 +227,14 @@
 - [Programming TypeScript](https://www.oreilly.com/library/view/programming-typescript/9781492037644/)
 - [TypeScript Roadmap](https://roadmap.sh/typescript)
 
-### Web Performance
+### Web Performance  <a id="web"></a>
 
 - [MDN Performance](https://developer.mozilla.org/en-US/docs/Learn/Performance)
 - [Web Dev Performance](https://web.dev/learn/#performance)
 - [Google Dev - Performance](https://developers.google.com/web/fundamentals/performance/get-started)
 - [Smashing Magazine - Performance](https://www.smashingmagazine.com/guides/performance/)
 
-### React
+### React  <a id="react"></a>
 
 - [React Coding Challange](https://github.com/alexgurr/react-coding-challenges/)
 - [React by Example](https://reactbyexample.github.io/)
@@ -237,24 +249,15 @@
 - [Entire React code base explanation by visual block](https://github.com/Bogdan-Lyashenko/Under-the-hood-ReactJS)
 - [Bulletproof React](https://github.com/alan2207/bulletproof-react)
 
-### Machine Coding
+### Machine Coding  <a id="machine-coding"></a>
 
 - [DOM Challenge - Machine coding questions](https://github.com/devkodeio/the-dom-challenge)
 - [Machine Coding Practice Questions](https://workat.tech/machine-coding/practice)
 
 --- 
-## Free Courses / Tutorials
 
-- [Freecodecamp](https://www.freecodecamp.org/learn/)
-- [Redis University](https://redis.io/university/)
-- [GraphQL Apollo](https://www.apollographql.com/tutorials/)
-- [MongoDb](https://learn.mongodb.com/)
-- [Hackerrank Skill Verifications](https://www.hackerrank.com/skills-verification)
-- [Grafana Tutorials](https://grafana.com/tutorials/)
 
----
-
-## BlockChain Resources
+## BlockChain Resources  <a id="blockchain"></a>
 
 - Blockchain Demo [website ,](https://andersbrownworth.com/blockchain/) [github](https://github.com/anders94/blockchain-demo)
 - [Blockchain Evoting System Reference](https://medium.com/coinmonks/voting-on-a-blockchain-how-it-works-3bb41582f403)
