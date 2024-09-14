@@ -261,4 +261,4 @@
 
 - Blockchain Demo [website ,](https://andersbrownworth.com/blockchain/) [github](https://github.com/anders94/blockchain-demo)
 - [Blockchain Evoting System Reference](https://medium.com/coinmonks/voting-on-a-blockchain-how-it-works-3bb41582f403)
-- [How i build anonymous voting system - zero knowledge proof](https://thebojda.medium.com/how-i-built-an-anonymous-voting-system-on-the-ethereum-blockchain-using-zero-knowledge-proof-d5ab286228fd]
+- [How i build anonymous voting system - zero knowledge proof](https://thebojda.medium.com/how-i-built-an-anonymous-voting-system-on-the-ethereum-blockchain-using-zero-knowledge-proof-d5ab286228fd)
