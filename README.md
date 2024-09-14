@@ -1,11 +1,35 @@
 # Reading and Learning Resources
 
+### Index
+
+- [Reading Resources]()
+  - [Blogs]()
+  - [Videos]()
+  - [Articles]()
+  - [Engg Blogs from Companies and startups]()
+- [Learn By Practice]()
+  - [General]()
+  - [Problem Solving]()
+  - [Frontend]()
+    - [Coding Challenges / Blog]()
+    - [HTTP]()
+    - [HTML]()
+    - [CSS]()
+    - [JavaScript]()
+    - [TypeScript]()
+    - [Web Performance]()
+    - [React]()
+    - [Machine Coding]()
+  - [Free Courses]() 
+
+
 # Reading Resources
 
 ## Blogs
 
 - [Dan Abramov (redux) - overreacted.io](https://overreacted.io/)
 - [ByteByteGo - System Design Newsletter](https://substack.com/@bytebytego399569/posts)
+- [Refactoring Guru - System Design](https://refactoring.guru/)
 - [Learn C++ and Security - Web API Hooking](https://www.ired.team/offensive-security/code-injection-process-injection/how-to-hook-windows-api-using-c++)
 - [LogRocket Blog](https://blog.logrocket.com/dev)
 
@@ -23,7 +47,6 @@
 - [NTLM Hash](https://www.tarlogic.com/cybersecurity-glossary/ntlm-hash/)
 - [XZ Backdoor Utils - SSH Vulnerability](https://pentest-tools.com/blog/xz-utils-backdoor-cve-2024-3094), [email chain](https://www.openwall.com/lists/oss-security/2024/03/29/4)
 - [Story about Tampering EDRs- Redops](https://redops.at/en/blog/a-story-about-tampering-edrs)
-
 
 
 ## Engineering Blogs from Well-known large companies and startups
@@ -125,22 +148,114 @@
 - [Hackerrank](https://www.hackerrank.com/dashboard)
 - [Hackerearth](https://www.hackerearth.com/practice/)
 
+--- 
+
 ## Frontend 
+
+### Coding Challenges /  Blog
 
 - [Great Frontend - lifetime member](https://www.greatfrontend.com/)
 - [Big Frontend Dev](https://bigfrontend.dev/)
 - [Frontend Masters](https://frontendmasters.com/guides/front-end-handbook/2024)
 - [Frontend Design Patterns - patterns.dev](https://www.patterns.dev/)
+- [Frontend Mentor](https://www.frontendmentor.io/)
+- [JS Challenger](https://www.jschallenger.com/)
+- [Devtools Tech](https://www.devtools.tech/?ref=frontend-learning-kit)
+- [Learners Bucket](https://practice.learnersbucket.com/)
+- [First Timers Only - Open Source](https://www.firsttimersonly.com/)
+
+### HTTP 
+
+- [MDN HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP)
+- [HTTP2 in Action](https://livebook.manning.com/book/http2-in-action/about-this-book/)
+
+### HTML
+
+- [MDN HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
+- [W3 Schools](https://www.w3schools.com/html/)
+
+### CSS 
 
 - [CSS Battle](https://cssbattle.dev/)
 - [100 days of CSS](https://100dayscss.com/)
 - [Style Stage CSS](https://stylestage.dev/)
 - [CSS Speedrun](https://css-speedrun.netlify.app/)
+- [MDN CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
+- [Web Dev](https://web.dev/learn/css/)
 
-## Free Courses 
+### JavaScript
+
+- [Web App Design Patterns](https://www.patterns.dev/)
+- [JS Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
+- [Design Patterns for Humans](https://github.com/kamranahmedse/design-patterns-for-humans)
+- [Refactoring JavaScript](https://refactoringjs.com/files/refactoring-javascript.pdf)
+- [The art of Unit Testing](https://www.manning.com/books/the-art-of-unit-testing-third-edition)
+- [Mostly Adequate Guide](https://mostly-adequate.gitbook.io/mostly-adequate-guide/)
+- [Functional Light JavaScript](https://aguru.gitbooks.io/functional-light-javascript/content/)
+- [Eloquent JavaScript](https://eloquentjavascript.net/)
+- [JavaScript Info](https://javascript.info/)
+- [JavaScript Tutorial](https://www.javascripttutorial.net/)
+- [JavaScript for Impatient Programmers](https://exploringjs.com/impatient-js/toc.html)
+- [Just Javascript](https://justjavascript.com/)
+- [JavaScript Roadmap](https://roadmap.sh/javascript)
+- [You don't know JS](https://github.com/getify/You-Dont-Know-JS)
+- [Secrets of the JavaScript Ninja](https://www.manning.com/books/secrets-of-the-javascript-ninja-second-edition)
+- [Deep JavaScript](https://exploringjs.com/deep-js/toc.html)
+- [Professional JavaScript for Web developers](https://www.oreilly.com/library/view/professional-javascript-for/9781119366447/)
+- [JS Party podcast](https://jsparty.fm/)
+- [JavaScript 30](https://javascript30.com/)
+
+  
+### TypeScript
+
+- [TypeScript Deepdive](https://basarat.gitbook.io/typescript/)
+- [Tackling TypeScript](https://exploringjs.com/tackling-ts/index.html)
+- [TypeScript Tutorial](https://www.typescripttutorial.net/)
+- [TypeScript Handbook](https://www.typescriptlang.org/docs/handbook/intro.html)
+- [Programming TypeScript](https://www.oreilly.com/library/view/programming-typescript/9781492037644/)
+- [TypeScript Roadmap](https://roadmap.sh/typescript)
+
+### Web Performance
+
+- [MDN Performance](https://developer.mozilla.org/en-US/docs/Learn/Performance)
+- [Web Dev Performance](https://web.dev/learn/#performance)
+- [Google Dev - Performance](https://developers.google.com/web/fundamentals/performance/get-started)
+- [Smashing Magazine - Performance](https://www.smashingmagazine.com/guides/performance/)
+
+### React
+
+- [React Coding Challange](https://github.com/alexgurr/react-coding-challenges/)
+- [React by Example](https://reactbyexample.github.io/)
+- [React Cheatsheet](https://devhints.io/react)
+- [React Patterns](https://reactpatterns.com/)
+- [Tao Of React](https://alexkondov.com/tao-of-react/)
+- [The React Handbook](https://reacthandbook.com/)
+- [ReactJS docs (beta)](https://beta.reactjs.org/)
+- [ReactJS Tutorials](https://reactjs.org/tutorial/tutorial.html)
+- [React Roadmap](https://roadmap.sh/react)
+- [React TypeScript Cheatsheet](https://github.com/typescript-cheatsheets/react)
+- [Entire React code base explanation by visual block](https://github.com/Bogdan-Lyashenko/Under-the-hood-ReactJS)
+- [Bulletproof React](https://github.com/alan2207/bulletproof-react)
+
+### Machine Coding
+
+- [DOM Challenge - Machine coding questions](https://github.com/devkodeio/the-dom-challenge)
+- [Machine Coding Practice Questions](https://workat.tech/machine-coding/practice)
+
+--- 
+## Free Courses / Tutorials
 
 - [Freecodecamp](https://www.freecodecamp.org/learn/)
-- [Redis University]()
-- [GraphQL Apollo]()
-- [MongoDb]()
-- [Hackerrank Certs]()
+- [Redis University](https://redis.io/university/)
+- [GraphQL Apollo](https://www.apollographql.com/tutorials/)
+- [MongoDb](https://learn.mongodb.com/)
+- [Hackerrank Skill Verifications](https://www.hackerrank.com/skills-verification)
+- [Grafana Tutorials](https://grafana.com/tutorials/)
+
+---
+
+## BlockChain Resources
+
+- Blockchain Demo [website ,](https://andersbrownworth.com/blockchain/) [github](https://github.com/anders94/blockchain-demo)
+- [Blockchain Evoting System Reference](https://medium.com/coinmonks/voting-on-a-blockchain-how-it-works-3bb41582f403)
+- [How i build anonymous voting system - zero knowledge proof](https://thebojda.medium.com/how-i-built-an-anonymous-voting-system-on-the-ethereum-blockchain-using-zero-knowledge-proof-d5ab286228fd]
