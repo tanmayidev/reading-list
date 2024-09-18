@@ -10,7 +10,8 @@
 - [Learn By Practice](#learn)
   - [General](#general)
   - [Problem Solving](#problem-solving)
-  - [Free Courses](#free-courses) 
+  - [Free Courses](#free-courses)
+  - [Backend](#be)
   - [Frontend](#fe)
     - [Coding Challenges / Blog](#fe-blogs)
     - [HTTP](#http)
@@ -28,6 +29,7 @@
 
 ## Blogs <a id="blogs"></a>
 
+- [Lydia Hallie - best for js](https://www.lydiahallie.com/), [Lydia Hallie YT](https://www.youtube.com/@theavocoder/videos)
 - [Dan Abramov (redux) - overreacted.io](https://overreacted.io/)
 - [ByteByteGo - System Design Newsletter](https://substack.com/@bytebytego399569/posts)
 - [Refactoring Guru - System Design](https://refactoring.guru/)
@@ -159,6 +161,12 @@
 - [MongoDb](https://learn.mongodb.com/)
 - [Hackerrank Skill Verifications](https://www.hackerrank.com/skills-verification)
 - [Grafana Tutorials](https://grafana.com/tutorials/)
+
+---
+
+## Backend <a id="be"></a>
+
+- [John Crickett - Coding Challenges](https://codingchallenges.fyi/)
 
 ---
 
