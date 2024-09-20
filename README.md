@@ -40,6 +40,8 @@ Todo:
 - [Refactoring Guru - System Design](https://refactoring.guru/)
 - [Learn C++ and Security - Web API Hooking](https://www.ired.team/offensive-security/code-injection-process-injection/how-to-hook-windows-api-using-c++)
 - [LogRocket Blog](https://blog.logrocket.com/dev)
+- [Josh W Comeau blog - react, js etc](https://www.joshwcomeau.com/react/usememo-and-usecallback/)
+- 
 
 ## Videos <a id="videos"></a>
 
@@ -57,6 +59,7 @@ Todo:
 
 - [Virtual Dom is pure overhead](https://svelte.dev/blog/virtual-dom-is-pure-overhead)
 - [React Compiler will not solve Prop Drilling](https://www.builder.io/blog/react-compiler-will-not-solve-prop-drilling)
+- [Build react like framework using blockdom - tomato](https://github.com/ged-odoo/blockdom/blob/main/doc/make_your_own_framework/readme.md)
 
 #### Security
 - [cors, xss, csrf](https://dev.to/maleta/cors-xss-and-csrf-with-examples-in-10-minutes-35k3)
