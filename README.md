@@ -40,17 +40,27 @@
 
 - [Recoil State Management - explained by creators](https://www.youtube.com/watch?v=_ISAA_Jt9kI)
 
-
-
 ## Articles <a id="articles"></a>
 
+#### JavaScript
 - [JavaScript Visualized - 7 parts - Lydia Hallie](https://dev.to/lydiahallie/series/3341)
+
+#### Typescript
 - [Discriminated Union](https://dev.to/darkmavis1980/what-are-typescript-discriminated-unions-5hbb)
+
+#### React
+
+- [Virtual Dom is pure overhead](https://svelte.dev/blog/virtual-dom-is-pure-overhead)
+- [React Compiler will not solve Prop Drilling](https://www.builder.io/blog/react-compiler-will-not-solve-prop-drilling)
+
+#### Security
 - [cors, xss, csrf](https://dev.to/maleta/cors-xss-and-csrf-with-examples-in-10-minutes-35k3)
 - [NTLM Hash](https://www.tarlogic.com/cybersecurity-glossary/ntlm-hash/)
 - [XZ Backdoor Utils - SSH Vulnerability](https://pentest-tools.com/blog/xz-utils-backdoor-cve-2024-3094), [email chain](https://www.openwall.com/lists/oss-security/2024/03/29/4)
 - [Story about Tampering EDRs- Redops](https://redops.at/en/blog/a-story-about-tampering-edrs)
 
+
+---
 
 ## Engineering Blogs from Well-known large companies and startups <a id="engg-blogs"></a>
 
