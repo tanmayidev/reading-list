@@ -22,6 +22,8 @@
     - [Web Performance](#web)
     - [React](#react)
     - [Machine Coding](#machine-coding)
+- [Learnt at Work](#work)
+    - html, css, js, ts, react, vitest, jest, playwright, solid principles, design patterns, POM pattern for testing, jenkins, graphql, apollo client, rest api, aws, documentation, nodejs, redux, recoil, iframes, rbac, feature toggles and global switches, system design, architecture, cdn, accessibility, internationalization, ui library, mock backend server, gha pipelines, kafka, writing design documents, react storybook, owasp, snyk vulnerabilities, axe tool, wave tool, git workflow, docker, kubernetes, aws, nx monorepo, postgresql db, elastic search, python, django, unix commands, cdn, caching, web performance, rendering improvments, builiding libraries
 
 
 
