@@ -25,6 +25,11 @@
 
 
 
+Todo: 
+- understand how hooks work, like what computations are done
+- using useMemo and useCallback, reduces re-render but how does it increase memory
+- Understand react a lot in detail
+
 # Reading Resources <a id="reading"></a>
 
 ## Blogs <a id="blogs"></a>
