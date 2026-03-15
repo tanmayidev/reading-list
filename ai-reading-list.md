@@ -1,6 +1,7 @@
 
 ### 2026: The Year of Agentic Autonomy & Industrialized Exploits
 
+- [ ] [What are RL environments and how to build them](https://unsloth.ai/blog/rl-environments)
 - [ ] [Agentic Engineering Patterns](https://simonwillison.net/guides/agentic-engineering-patterns/)
 - [ ] [Precision Proactivity: Measuring Cognitive Load in AI-Assisted Work](https://arxiv.org/abs/2505.10742)
 - [ ] [AutoHarness: Improving LLM Agents by Synthesizing a Code Harness](https://arxiv.org/abs/2603.03329)
