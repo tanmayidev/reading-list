@@ -1,3 +1,10 @@
+# AI 
+
+### Interesting things
+
+- [Context7 MCP Server](https://context7.com/)
+- [Deepwiki](https://deepwiki.com/) 
+
 
 ### 2026: The Year of Agentic Autonomy & Industrialized Exploits
 
