@@ -9,3 +9,5 @@ https://mtlynch.io/claude-code-found-linux-vulnerability
 https://deepwiki.com/
 
 https://github.com/upstash/context7
+
+https://github.com/HandsOnLLM/Hands-On-Large-Language-Models
