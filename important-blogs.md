@@ -1,0 +1,10 @@
+- Neo Kim
+- Stefan Djokic
+- The Pragmatic Engineer
+- Ryan Performance
+- John Cricket from Codking Challenges
+- Alex Kantrowitz
+- Refactoring
+- Byte Byte Go
+- Tyler from Fireship
+- 
