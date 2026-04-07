@@ -1,0 +1,35 @@
+- Computer Networks - Top Down Approach - By James F. Kurose and Keith W. Ross
+- Grokking Algorithms - Aditya Y. Bhargava
+- Structure and Interpretation of Computer Programs
+  - Harold Abelson
+  - Gerald Jay Sussman
+  - Julie Sussman 
+- The Complete Reference C++
+- Algorithms
+  - Sanjoy Dasgupta
+  - Christos Papadimtriou
+  - Umesh Vazirani 
+- Algorithm Design
+  - Jon Klienberg
+  - Eva Tardos   
+- JavaScript : The Complete Reference
+- The Intel Microprocessors
+  - Barry B. Brey 
+- Automata, Computability and Complexity
+  - Elaine Rich
+- Theory of Computer Science
+  - K.L.P Mishra
+  - N. Chandrasekaran 
+- Advanced Programming in the UNIX Environment
+  - W. Richard Stevens
+  - Stephen A. Rago
+- Computer and Communication Networks
+  - Nader F. Mir
+- Object Oriented Analysis and Design with Applications
+  - Grady Booch
+- Computer Organization and Embedded Systems
+- Database System Concepts
+  - Abraham Siberschatz
+  - Henry F. Korth
+  - S. Sudarshan
+- 
