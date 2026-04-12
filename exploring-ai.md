@@ -1,19 +1,21 @@
-https://github.com/JuliusBrussee/caveman
+Caveman skills - https://github.com/JuliusBrussee/caveman
 
-https://lalitm.com/post/building-syntaqlite-ai/
+SQLite for ai - https://lalitm.com/post/building-syntaqlite-ai/
 
-https://github.com/tirth8205/code-review-graph
+Code review graph - https://github.com/tirth8205/code-review-graph
 
 https://mtlynch.io/claude-code-found-linux-vulnerability
 
-https://deepwiki.com/
+DeepWiki - for understanding repos - https://deepwiki.com/
 
-https://github.com/upstash/context7
+Context7 MCP - https://github.com/upstash/context7
 
-https://github.com/HandsOnLLM/Hands-On-Large-Language-Models
+Hands on LLM - https://github.com/HandsOnLLM/Hands-On-Large-Language-Models
 
 https://alphasignal.ai/ - newsletter
 
-https://github.com/safishamsi/graphify - someone built a tool andrej karpathy asked
+Graphify - https://github.com/safishamsi/graphify - someone built a tool andrej karpathy asked
 
-https://www.anthropic.com/glasswing
+Glasswing - https://www.anthropic.com/glasswing
+
+Skillful MCP - https://github.com/kurtisvg/skillful-mcp
