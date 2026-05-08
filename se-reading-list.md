@@ -1,6 +1,9 @@
 # Articles <a id="sd"></a>
 
 - [ ] [Paul Chiusano : The future of software, the end of apps, and why UX designers should care about type theory](https://pchiusano.github.io/2013-05-22/future-of-software.html)
+- [ ] [How design system leaders define and measure adoption](https://omlet.dev/blog/how-leaders-measure-design-system-adoption/)
+- [ ] [Find Out If Your Design System Is Better Than Nothing](https://gitnation.com/contents/find-out-if-your-design-system-is-better-than-nothing)
+- [ ] [How Pinterest’s design systems team measures adoption](https://www.designsystems.com/how-pinterests-design-systems-team-measures-adoption/)
 - [ ] [Netflix Uncovers Kernel-Level Bottlenecks While Scaling Containers on Modern CPUs](https://www.infoq.com/news/2026/03/netflix-kernel-scaling-container/)
 - [ ] [Karapathy - Autoresearch project](https://github.com/karpathy/autoresearch)
   - [LinkedIn Post](https://www.linkedin.com/posts/charlywargnier_this-is-the-wildest-open-source-project-i-activity-7439350595402133504-d-98)
