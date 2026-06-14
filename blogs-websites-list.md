@@ -35,7 +35,7 @@ Todo:
 - [Learn C++ and Security - Web API Hooking](https://www.ired.team/offensive-security/code-injection-process-injection/how-to-hook-windows-api-using-c++)
 - [LogRocket Blog](https://blog.logrocket.com/dev)
 - [Josh W Comeau blog - react, js etc](https://www.joshwcomeau.com/react/usememo-and-usecallback/)
-- 
+- [Jitendra Agrawal - JioHotstar](https://www.jeet.world/)
 
 ## Videos <a id="videos"></a>
 
