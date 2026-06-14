@@ -12,3 +12,4 @@
 - [ ] [Quirks of GraphQL Subscriptions](https://wundergraph.com/blog/quirks_of_graphql_subscriptions_sse_websockets_hasura_apollo_federation_supergraph)
 - [ ] [The illusion of thinking - AI](https://www.linkedin.com/posts/arjunjain_the-illusion-of-thinking-activity-7336599182809407488-VoFb)
 - [ ] [8 Must try MCP Servers](https://levelup.gitconnected.com/8-must-try-mcp-servers-every-developer-should-explore-today-a7cac8f70b7a)
+- [ ] [Practical CDN Caching for Developers - Jitendra Agrawal](https://www.jeet.world/practical-cdn-caching-for-developers/)
